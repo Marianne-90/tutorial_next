@@ -6,6 +6,7 @@ import styles from "./Navigation.module.css"
 const links = [
   { label: "Home", route: "/" },
   { label: "About", route: "/about" },
+  { label: "Posts", route: "/posts" },
 ];
 
 export const Navigation = () => {
