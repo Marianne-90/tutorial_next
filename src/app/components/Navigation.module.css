@@ -1,0 +1,18 @@
+.navigation{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.navigation a:hover{
+    color: rebeccapurple;
+}
+
+
+.header {
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+}
